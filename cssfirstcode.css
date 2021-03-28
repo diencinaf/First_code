@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+  }
+
+
+  div.a  {
+    text-align: center;
+    line-height: 50pt;
+        }
+    
+  div.b  {
+    text-align: right;
+    line-height: 50pt;
+        }
+    
+  div.c  {
+    text-align: left;
+    line-height: 50pt;
+        }
+  div.image1 {
+    text-align: center;
+    margin-top: 50pt;
+    margin-bottom: 50pt;
+  }
+
+div.link{
+  text-align: center;
+}
+
+h2 {
+text-align: center;
+line-height: 100pt;
+}
+
+table{
+  margin-bottom: 80pt;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

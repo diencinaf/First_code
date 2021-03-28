@@ -1,0 +1,5 @@
+letter-spacing: 1pt;      /* para separar entgre letras */
+word-spacing: 5pt;        /* para separacion entre palabras */  
+line-height: 20pt;        /* para la separacion entre lineas */ 
+text-indent: 10pt;        /* para sangrias */ 
+text-align: center;      /* para centrar  */
